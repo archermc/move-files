@@ -1,2 +1,2 @@
-# move-files
-A simple Python utility for moving files from one location to the next.
+# plex-torrganize
+A simple Python utility for moving files from staging folder to either a TV or Movies folder.
